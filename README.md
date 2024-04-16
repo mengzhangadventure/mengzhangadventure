@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Emry!
-- 🔭 I'm a data analyst and engineer with experience in the e-commerce industry.
-- 🌱 I'm currently learning software development and striving to make a career switch.
+- 🔭 I'm a data analyst with experience in the e-commerce industry and B2B field.
+- 🌱 I'm currently learning software development and data engineer to improve my programming skill.
 - 🌊 Passionate about marine research, I'm looking to volunteer my programming skills to make a meaningful contribution.
-- 📫 How to reach me: emryzhang.work@gmail.com
+- 📫 How to reach me: mengzhang970503@gmail.com
 - 😄 Pronouns: They/them
